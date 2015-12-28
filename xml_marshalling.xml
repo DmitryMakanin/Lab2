@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<salad>
+    <vegetable>
+        <calories>3200</calories>
+        <country>Беларусь</country>
+        <dateOfManufacture>2015-11-01T00:00:00+03:00</dateOfManufacture>
+        <name>Carrot red long</name>
+        <type>carrot</type>
+    </vegetable>
+    <vegetable>
+        <calories>150</calories>
+        <country>Russia</country>
+        <dateOfManufacture>2015-11-06T00:00:00+03:00</dateOfManufacture>
+        <name>Cucumber long</name>
+        <type>cucumber</type>
+    </vegetable>
+    <vegetable>
+        <calories>900</calories>
+        <country>Belarus</country>
+        <dateOfManufacture>2015-11-30T00:00:00+03:00</dateOfManufacture>
+        <name>SourCream</name>
+        <type>sourcream</type>
+    </vegetable>
+</salad>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><salad>
+	<vegetable>
+		<type>Carrot</type>
+		<name>Carrot Minskaya</name>
+		<calories>200</calories>
+		<country>Belarus</country>
+		<date>01.01.2001</date>
+	</vegetable>
+	<vegetable>
+		<type>Cucumber</type>
+		<name>Cucumber long khrustyaschy</name>
+		<calories>250</calories>
+		<country>Poland</country>
+		<date>05.05.2005</date>
+	</vegetable>
+	<vegetable>
+		<type>SourCream</type>
+		<name>SourCream 25% Sinaya</name>
+		<calories>800</calories>
+		<country>Russia</country>
+		<date>04.04.2004</date>
+	</vegetable>
+</salad>
